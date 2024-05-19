@@ -52,8 +52,8 @@ Borrow out = A'Cin + A'B + B'Cin
 3.The circuit includes XOR, AND, OR gates to perform subtraction.   
 4.Compile, simulate, implement, and program the design similarly to the full adder.  
 
-**Developed by: NAVEENAA A K**  
-**RegisterNumber:  212222230094** 
+**Developed by: ADITYAH M S**  
+**RegisterNumber:  212223220002** 
 
 ## FULL ADDER
 
